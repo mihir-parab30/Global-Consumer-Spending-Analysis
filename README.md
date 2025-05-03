@@ -62,7 +62,7 @@ Built using a **star schema data model** and powered by **DAX measures**, this p
 | Dashboard | Preview |
 |----------|--------|
 | Consumer Trends Overview | ![](./Dashboard_Screenshots/Customer_Shopping_Sales_Trend_Analysis.png) |
-| Demographic Impact | ![](./Dashboard_Screenshots/Customer_Shopping_Sales_Trend_Analysis.png) |
+| Demographic Impact | ![](./Dashboard_Screenshots/Demographic_and_Regional_Impact_on_Consumer Sales.png) |
 | Forecasting Insights | ![](./Dashboard_Screenshots/Spending_Trends_and_Forecasting.png) |
 | KPI & Sales Target Dashboard | ![](./Dashboard_Screenshots/Consumer_Spending_&_KPI.png) |
 
