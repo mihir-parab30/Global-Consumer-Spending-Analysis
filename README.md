@@ -57,14 +57,14 @@ Built using a **star schema data model** and powered by **DAX measures**, this p
 
 ## 📁 Repository Structure
 
-### 📸 Dashboard Previews
+📸 Dashboard Previews
 
 | Dashboard | Preview |
 |----------|--------|
-| Consumer Trends Overview | ![](./Assets/Dashboard_Screenshots/Overview_Dashboard.png) |
-| Demographic Impact | ![](./Assets/Dashboard_Screenshots/Demographic_Impact.png) |
-| Forecasting Insights | ![](./Assets/Dashboard_Screenshots/Forecasting_Insights.png) |
-| KPI & Sales Target Dashboard | ![](./Assets/Dashboard_Screenshots/KPI_Summary.png) |
+| Consumer Trends Overview | ![](./Dashboard_Screenshots/Overview_Dashboard.png) |
+| Demographic Impact | ![](./Dashboard_Screenshots/Demographic_Impact.png) |
+| Forecasting Insights | ![](./Dashboard_Screenshots/Forecasting_Insights.png) |
+| KPI & Sales Target Dashboard | ![](./Dashboard_Screenshots/KPI_Summary.png) |
 
 ---
 
